@@ -6,7 +6,6 @@ This project simulates the behavior of an intelligent robotic agent operating on
 2. **Route Planning using Search Algorithms**
 3. **Charging Station Optimization**
 
-Developed as part of the *Intelligent Agent Design* course at Tecnológico de Monterrey.
 
 ---
 
